@@ -1,6 +1,6 @@
 # Rentful
 
-Rentful is the app service from [Memphis Public Interest Law Center](https://mpilc.org/).
+Rentful is the app service used by clients of [Memphis Public Interest Law Center](https://mpilc.org/).
 
 ## Summary
 
