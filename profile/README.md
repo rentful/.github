@@ -9,3 +9,4 @@ Rentful is a timeline-generating app that can be used to track and manage events
 ## Links
 
 [![iOS App Store Link](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/rentful/id6472075797)
+<!-- [![Google Play Store Link](https://raw.githubusercontent.com/steverichey/google-play-badge-svg/refs/heads/master/img/en_get.svg)](https://play.google.com/store/apps/details?id=com.renters.rentful) -->
